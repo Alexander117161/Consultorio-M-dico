@@ -1,0 +1,12 @@
+[
+    {
+        "nombre": "Paracetamol",
+        "stock": 25,
+        "alerta": 5
+    },
+    {
+        "nombre": "Ibuprofeno",
+        "stock": 30,
+        "alerta": 5
+    }
+]
